@@ -1,0 +1,23 @@
+color chart: https://html-color-codes.info/webfarben_hexcodes/
+
+rising green:
+["7FFF00", "7FFF00", "00FF00", "32CD32", "32CD32", "228B22", "008000", "008000", "006400",  "006400", "006400"]
+
+yellow to orange:
+["FFFF00","FFFF00","FFFF00","FFD700","FFD700","FFD700","FF8C00","FF8C00","FF8C00","FF8C00"]
+
+rising yellow:
+["FBFBEF", "F7F8E0", "F5F6CE", "F2F5A9", "F3F781", "F4FA58", "F7FE2E", "F7FE2E", "FFFF00", "FFFF00"]
+
+rising blue:
+["EFEFFB", "E0E0F8", "CECEF6", "A9A9F5", "8181F7", "5858FA", "5858FA", "2E2EFE", "0000FF", "0000FF"]
+
+yellow to red:
+["F7FE2E", "FACC2E", "FFBF00", "FE9A2E", "FF8000", "FE642E", "FF4000", "FE2E2E", "FF0000","FF0000"]
+
+dual color red blue:
+["ff0000","0000ff"]
+
+5 contrast color:
+["04B404", "ff0000","0000ff","FFBF00","FF00BF"]
+
