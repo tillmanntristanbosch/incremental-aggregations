@@ -2,7 +2,7 @@ Welcome to the Simulation of the Line Hitting Aggregation and External DLA!
 
 ### MASTER THESIS ###
 
-Subject:	Incremental Aggregations
+Subject:	Fractal Dimension of Incremental Aggregations
 Author: 	Tillmann Tristan Bosch
 Professor: 	Steffen Winter
 University: 	Institute of Technology, Karlsruhe (KIT)
